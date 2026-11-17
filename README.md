@@ -1,7 +1,7 @@
 # Employee Performance Dashboard
 
 **PS No.:** 66  
-**Author:** Kanak Dixit
+**Author:** Kanak Singh Dixit
 **ERP:** RU-26-00960
 
 ## About the Project
